@@ -36,7 +36,9 @@ It uses a sample dataset related to Artificial Intelligence and creates new sent
 
 ## Project Structure
 Task-4-Project/
+
 │── Task_4.ipynb  
+
 │── README.md  
 
 ---
