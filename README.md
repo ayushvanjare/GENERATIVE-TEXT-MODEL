@@ -14,8 +14,6 @@
 
 ---
 
-# Text Generation using Markov Chains
-
 ## About
 This project generates text automatically using a Markov Chain model in Python.  
 It uses a sample dataset related to Artificial Intelligence and creates new sentences based on patterns in the data.
